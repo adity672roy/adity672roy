@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ADITY ROY
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning MERN
+- 🌱 Proficient in JavaScript, React, Redux, and MERN stack
 - 📫 How to reach me : adityroy672@gmail.com
 
 <!---
