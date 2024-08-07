@@ -36,6 +36,11 @@ I am a skilled web developer with expertise in crafting attractive and user-frie
 - **Technologies Used**: React.js, Vite.js, EmailJS
 - **Description**: Developed a platform where users can browse and select from different varieties of coffee.
 - **Features**: Table reservation feature, confirmation emails, intuitive and responsive user interface.
+- 
+### [Notes Website](https://github.com/adity672roy/Task_Frontend)
+- **Technologies Used**: Vite, React.js, Node.js, Express.js, MongoDB
+- **Description**: Developed a full-stack web application including note creation, editing, and deletion.
+- **Features**: User authentication, note management with creation, editing, and deletion capabilities, user-friendly interface with seamless interaction, responsive design, and RESTful API endpoints.
 
 ### [Netflix Clone](https://github.com/adity672roy/netflix-clone)
 - **Technologies Used**: React.js, Redux, Node.js, Express.js, MongoDB, Firebase
