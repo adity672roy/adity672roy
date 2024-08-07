@@ -38,7 +38,7 @@ I am a skilled web developer with expertise in crafting attractive and user-frie
 - **Features**: Table reservation feature, confirmation emails, intuitive and responsive user interface.
 - 
 ### [Notes Website](https://github.com/adity672roy/Task_Frontend)
-- **Technologies Used**: Vite, React.js, Node.js, Express.js, MongoDB
+- **Technologies Used**: Vite.js, React.js, Node.js, Express.js, MongoDB, TailwindCSS
 - **Description**: Developed a full-stack web application including note creation, editing, and deletion.
 - **Features**: User authentication, note management with creation, editing, and deletion capabilities, user-friendly interface with seamless interaction, responsive design, and RESTful API endpoints.
 
