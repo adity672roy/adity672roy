@@ -62,8 +62,7 @@ I am a skilled web developer with expertise in crafting attractive and user-frie
 
 - **Phone**: +91-9811556614
 - **Email**: adityroy.ar10@gmail.com
-- **Portfolio**: [Your Portfolio Website](https://adityroy-adity672roys-projects.vercel.app)
-- **GitHub**: [GitHub Profile](https://github.com/adity672roy)
+- **Portfolio**: [My Portfolio](https://adityroy-adity672roys-projects.vercel.app)
 
 ## Let's Connect!
 
