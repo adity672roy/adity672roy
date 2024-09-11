@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Adity Roy
 
-Welcome to my GitHub profile!
+ 
 
 ## About Me
 
