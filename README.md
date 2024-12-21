@@ -1,7 +1,3 @@
-# 👋 Hi, I’m Adity Roy
-
- 
-
 ## About Me
 
 I am a skilled web developer with expertise in crafting attractive and user-friendly websites that boost interaction and yield outcomes. Proficient in HTML, CSS, JavaScript, React, Redux, and the MERN stack, I have demonstrated the ability to efficiently self-manage independent projects and effectively work in collaborative environments.
@@ -13,13 +9,6 @@ I am a skilled web developer with expertise in crafting attractive and user-frie
 - **Databases**: MongoDB
 - **Developer Tools**: VS Code, GitHub, PyCharm, Jupyter
 
-## Work Experience
-
-### Viral Fission
-**Team Leader** (Dec 2020 - Dec 2022)
-- Adapted quickly to the role of youth ambassador upon joining.
-- Efficiently managed 30+ ambassadors, ensuring seamless execution of tasks and responsibilities.
-
 ## How to Reach Me
 
 - **Phone**: +91-9811556614
@@ -30,4 +19,4 @@ I am a skilled web developer with expertise in crafting attractive and user-frie
 
 Feel free to reach out if you want to collaborate on projects or just want to say hi. I'm always open to new opportunities and connections!
 
-Thank you for visiting my GitHub profile!
+ 
