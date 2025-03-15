@@ -4,14 +4,13 @@ I am a skilled web developer with expertise in crafting attractive and user-frie
 
 ## Skills and Technologies
 
-- **Languages**: HTML, CSS, JavaScript, Python, SQL
-- **Technologies/Frameworks**: React, Next.js, Express.js, Redux, Tailwind CSS, Bootstrap, Shadcn, Pandas, Numpy, Matplotlib, Seaborn, Advanced Excel, Power BI
+- **Languages**: HTML, CSS, JavaScript
+- **Technologies/Frameworks**: React, Next.js, Express.js, Redux, Tailwind CSS, Bootstrap, Shadcn, GSAP, Framer Motion
 - **Databases**: MongoDB
-- **Developer Tools**: VS Code, GitHub, PyCharm, Jupyter
-
+- **Developer Tools**: VS Code, GitHub
+  
 ## How to Reach Me
 
-- **Phone**: +91-9811556614
 - **Email**: adityroy.ar10@gmail.com
 - **Portfolio**: [My Portfolio](https://adityroy-adity672roys-projects.vercel.app)
 
