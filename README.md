@@ -12,7 +12,7 @@ I am a skilled web developer with expertise in crafting attractive and user-frie
 ## How to Reach Me
 
 - **Email**: adityroy.ar10@gmail.com
-- **Portfolio**: [My Portfolio](https://adityroy-adity672roys-projects.vercel.app)
+- **Portfolio**: [My Portfolio](https://my-portfolio-five-neon-69.vercel.app)
 
 ## Let's Connect!
 
